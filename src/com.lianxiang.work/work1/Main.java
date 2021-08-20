@@ -1,4 +1,4 @@
-package work1;
+package com.lianxiang.work.work1;
 
 
 /**
